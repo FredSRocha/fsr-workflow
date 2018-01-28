@@ -1,0 +1,43 @@
+{
+  "name": "fsr-workflow",
+  "description": "FSR Workflow development with AngularJS (ng, ngCookies,  ngResource, ngSanitize, ui.router, pascalprecht.translate), CoffeeScript, SCSS, PUG, Bower and Gulp.",
+  "main": "",
+  "authors": [
+    "fredsrocha <fredsrocha1985@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "FSR",
+    "Workflow",
+    "Fullstack",
+    "fsr-workflow",
+    "Angular",
+    "JS",
+    "Translate",
+    "Coffee",
+    "Sass",
+    "Pug",
+    "Bower",
+    "Gulp",
+    "Mit",
+    "License",
+    "fredsrocha"
+  ],
+  "moduleType": [],
+  "homepage": "https://github.com/fredsrocha/fsr-workflow",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "1.5.6",
+    "angular-resource": "1.5.6",
+    "angular-ui-router": "0.3.1",
+    "angular-translate": "2.11.0",
+    "angular-translate-storage-local": "2.11.0",
+    "angular-translate-loader-static-files": "2.11.0",
+    "angular-sanitize": "1.5.6"
+  }
+}

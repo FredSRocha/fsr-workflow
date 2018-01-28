@@ -1,0 +1,10 @@
+{
+    "APP": {
+        "TITLE": "FSR Workflow",
+        "DESCRIPTION": "O FSR Workflow Fullstack é um ambiente de desenvolvimento com: AngularJS (ng, ngCookies,  ngResource, ngSanitize, ui.router, pascalprecht.translate), CoffeeScript, SCSS, PUG, Bower, Gulp (<b>GULP DEFAULT</b> Compila .coffee, .scss, .pug, minimiza imagens e recarrega a página usando o browserSync. <b>GULP DEPLOY</b> Cria a versão de distribuição completa inteiramente compatível com o ambiente de desenvolvimento local. <b>GULP PUSH</b> Empurra a versão de distribuição diretamente para o servidor online via FTP).",
+        "LICENSE": "Este modelo é livre para ser usado sob a licença MIT.",
+        "CONTRIBUTE" : "Contribua clicando na estrela, forkando e compartilhando.",
+        "TEST": "Teste Básico",
+        "CHOOSE_LANG": "Choose Language"
+    }
+}

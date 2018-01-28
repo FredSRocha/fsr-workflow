@@ -1,0 +1,39 @@
+/* Media Queries */
+// Mobile and Tablet or Desktop Down
+@media only screen and (max-width: 64.000em) {
+  /* Table */
+  table {
+    border: 0;
+    thead {
+      display: none;
+    }
+    tr {
+      border-bottom: 1px solid #ddd;
+      display: block;
+      margin-bottom: -1px;     
+    }
+    td {
+      border-bottom: 1px dotted #ccc;
+      display: block;
+      font-size: 13px;
+      text-align: right;
+    }
+    td:last-child {
+      border-bottom: 0;
+    }
+    td:first-child:before {
+      line-height: 3.5;
+    }
+    td:before {
+      color: #4b4b4b;
+      content: attr(data-label);
+      float: left;
+      font-weight: bold;
+      text: {
+        align: left;
+        transform: uppercase;
+      }
+    }
+  }
+}
+/* End Media Queries */
