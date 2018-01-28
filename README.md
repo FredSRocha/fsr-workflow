@@ -14,19 +14,19 @@ Workflow with [AngularJS](https://angularjs.org/ "AngularJS website") 1.5+ ([Tra
 
 **RUN**
 
-_$ npm install_
+###### _$ npm install_
 
-_$ bower install_
+###### _$ bower install_
 
-_$ gulp_
+###### _$ gulp_
 
 **DEPLOY** _(Distribution Version)_
 
-_$ gulp deploy_
+###### _$ gulp deploy_
 
 **PUSH TO FTP**
 
-_$ gulp push_
+###### _$ gulp push_
 
 <table>
   <thead>
@@ -65,7 +65,7 @@ _$ gulp push_
 
 ## Copyright and License
 
-###### &copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
+&copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
   
 :fire: [MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License").
 
