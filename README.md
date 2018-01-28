@@ -10,6 +10,22 @@
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-workflow/)
 
+**RUN STEPS:**
+
+_$ npm install_
+
+_$ bower install_
+
+_$ gulp_
+
+**DEPLOY:** _(Distribution Version)_
+
+_$ gulp deploy_
+
+**PUSH TO FTP:**
+
+_$ gulp push_
+
 <table>
   <thead>
     <tr>
