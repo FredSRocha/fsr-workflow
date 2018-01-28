@@ -1,16 +1,14 @@
 <main style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size: 1rem;line-height: 1.5;color: #373a3c;background-color: #fff;">
 
-![FSR Components for developers](http://fsrcomponents.jcappsinc.com/imgs/favicon/fsr-workflow/favicon-96x96.png "FSR Components for developers")
 ![Author](https://img.shields.io/badge/author-@fredsrocha-1da1f2.svg?style=flat-square "Author")
 ![License](https://img.shields.io/badge/license-MIT-ff8a65.svg?style=flat-square "License")
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square "Version")
-![Contact](https://img.shields.io/badge/slack-fsrcomponents.slack.com-56b68b.svg?style=flat-square "Contact")
 
-# FSR Workflow
+# Workflow
 
 :gift: Workflow with [AngularJS](https://angularjs.org/ "AngularJS website") 1.5+ ([Translate](https://github.com/angular-translate/angular-translate "Angular Translate")/[Resource](https://github.com/angular/bower-angular-resource "Angular Resource")/[UI-Router](https://github.com/angular-ui/ui-router "AngularUI Router")), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system"). [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
-[![FSR Components - Twitter](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
+**VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-workflow/)
 
 <table>
   <thead>
@@ -20,9 +18,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td colspan="2"><img src="http://fsrcomponents.jcappsinc.com/imgs/github/compatible-browsers.png" alt="Compatible Browsers." title="Compatible Browsers"></td>
-    </tr>
     <tr>
       <td>Chrome</td>
       <td>53+</td>
@@ -52,8 +47,8 @@
 
 ### Copyright and license
 
-[![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
+&copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
   
-[MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License").
+:fire: [MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License").
 
 </main>
