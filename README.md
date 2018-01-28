@@ -65,7 +65,7 @@ _$ gulp push_
 
 ## Copyright and License
 
-&copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
+###### &copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
   
 :fire: [MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License").
 
