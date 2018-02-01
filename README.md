@@ -10,7 +10,7 @@
 
 Workflow with [AngularJS](https://angularjs.org/ "AngularJS website") 1.5+ ([Translate](https://github.com/angular-translate/angular-translate "Angular Translate")/[Resource](https://github.com/angular/bower-angular-resource "Angular Resource")/[UI-Router](https://github.com/angular-ui/ui-router "AngularUI Router")), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system").
 
-**VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-workflow/) :octocat:
+:octocat: **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-workflow/)
 
 **RUN**
 
