@@ -10,7 +10,7 @@
 
 Workflow with [AngularJS](https://angularjs.org/ "AngularJS website") 1.5+ ([Translate](https://github.com/angular-translate/angular-translate "Angular Translate")/[Resource](https://github.com/angular/bower-angular-resource "Angular Resource")/[UI-Router](https://github.com/angular-ui/ui-router "AngularUI Router")), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system").
 
-**VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-workflow/)
+**VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-workflow/) :octocat:
 
 **RUN**
 
@@ -28,42 +28,33 @@ Workflow with [AngularJS](https://angularjs.org/ "AngularJS website") 1.5+ ([Tra
 
 ###### _$ gulp push_
 
-<table>
-  <thead>
-    <tr>
-      <th>Compatible browsers</th>
-      <th>Version</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Chrome</td>
-      <td>53+</td>
-    </tr>
-    <tr>
-      <td>Firefox</td>
-      <td>37+</td>
-    </tr>
-    <tr>
-      <td>Internet Explorer</td>
-      <td>11+</td>
-    </tr>
-    <tr>
-      <td>Opera</td>
-      <td>39+</td>
-    </tr>
-    <tr>
-      <td>Safari</td>
-      <td>5.1+</td>
-    </tr>
-    <tr>
-      <td>Edge</td>
-      <td>14.14+</td>
-    </tr>
-  </tbody>
-</table>
+## What's Next
+
+- [x] Create Scaffolding (Mar. 2017).
+- [x] Create GulpJS (Apr. 2017).
+- [x] Start with HTML5, CSS3 and JS (Apr. 2017).
+- [x] Build HTML with PUG (May. 2017).
+- [x] Build CSS3 with SCSS (May. 2017).
+- [x] Build JS with CoffeeScript (May. 2017).
+- [x] Add AngularJS (July 2017)
+- [x] Add Angular (Translate/Resource/UI-Router) (Aug. 2017).
+- [x] Update GulpJS (Oct. 2017).
+- [ ] ~~Create 2.0 Version~~ (Nov. 2017 - DISCONTINUED).
+
+## Browsers
+
+| Compatible | Version |
+| ------ | ----------- |
+| Chrome | 53+ |
+| Firefox | 37+ |
+| Internet Explorer | 11+ |
+| Opera | 39+ |
+| Safari | 5.1+ |
+| Edge | 14.14+ |
 
 ## Copyright and License
+
+<img src="https://octodex.github.com/images/dojocat.jpg" alt="Copyright and License, The Dojocat"  width="150" height="150" />
 
 &copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
   
