@@ -4,7 +4,7 @@
   "description": "FSR Workflow development with AngularJS (ng, ngCookies,  ngResource, ngSanitize, ui.router, pascalprecht.translate), CoffeeScript, SCSS, PUG, Bower and Gulp.",
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.9.10",
+    "browser-sync": "^2.29.3",
     "connect-history-api-fallback": "^1.2.0",
     "connect-logger": "0.0.1",
     "gulp": "^3.9.1",
